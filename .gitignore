@@ -20,6 +20,8 @@ $RECYCLE.BIN/
 *.msp
 *.docx
 *.SESSION
+*.potx
+*.pptx
 
 # =========================
 # Operating System Files
