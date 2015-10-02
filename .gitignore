@@ -18,6 +18,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.docx
+*.SESSION
 
 # =========================
 # Operating System Files
