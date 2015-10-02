@@ -1,0 +1,6 @@
+library(knitr)
+library(unmarked)
+library(sp)
+library(rgdal)
+library(maps)
+library(maptools)
