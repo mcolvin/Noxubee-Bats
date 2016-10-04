@@ -1,16 +1,6 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="7">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\1_global.R" backupFilePath="" originalFileLastModifTimestamp="1352310403" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\2_functions.R" backupFilePath="" originalFileLastModifTimestamp="1306502230" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\3_load.R" backupFilePath="" originalFileLastModifTimestamp="1338775602" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\4_clean.R" backupFilePath="" originalFileLastModifTimestamp="1306502230" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\5_tables.R" backupFilePath="" originalFileLastModifTimestamp="1344360307" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\6_figures.R" backupFilePath="" originalFileLastModifTimestamp="1344360314" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\7_analysis.R" backupFilePath="" originalFileLastModifTimestamp="1338775614" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="847" startPos="2" endPos="2" selMode="0" lang="R" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\8_main.R" backupFilePath="C:\Users\mcolvin\AppData\Roaming\Notepad++\backup\8_main.R@2015-10-02_120212" originalFileLastModifTimestamp="1352325340" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Rmd" encoding="-1" filename="C:\Users\mcolvin\Documents\projects\Noxubee-Bats\analysis\src\build.Rmd" backupFilePath="" originalFileLastModifTimestamp="1377378443" />
-        </mainView>
+        <mainView activeIndex="7" />
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>
